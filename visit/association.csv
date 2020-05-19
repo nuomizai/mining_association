@@ -1,0 +1,15 @@
+key1,key2,confidence,support
+"['[""Dunkin\' Donuts""]']","['[""United States Postal Service (USPS)""]']",0.036766467065868266,0.0013914761885336923
+"['[""United States Postal Service (USPS)""]']","['[""Dunkin\' Donuts""]']",0.027230796522973215,0.0013914761885336923
+"['[""Dunkin\' Donuts""]']","['[""National Association for the Education of Young Children (NAEYC)""]']",0.013772455089820359,0.0005212370087341192
+"['[""National Association for the Education of Young Children (NAEYC)""]']","['[""Dunkin\' Donuts""]']",0.055771096023278365,0.0005212370087341192
+"['[""Cricket Wireless""]']","['[""Dunkin\' Donuts""]']",0.05926860025220681,0.00042605459844354096
+"['[""Dunkin\' Donuts""]']","['[""Cricket Wireless""]']",0.01125748502994012,0.00042605459844354096
+"['[""United States Postal Service (USPS)""]']","['[""starbucks""]']",0.017917331914138728,0.0009155641370808008
+"['[""starbucks""]']","['[""United States Postal Service (USPS)""]']",0.04307036247334755,0.0009155641370808008
+"['[""United States Postal Service (USPS)""]']","['[""Wawa""]']",0.013038850452368281,0.0006662768720340481
+"['[""Wawa""]']","['[""United States Postal Service (USPS)""]']",0.041713961407491486,0.0006662768720340481
+"['[""United States Postal Service (USPS)""]']","['[""mcdonalds""]']",0.01073265921589498,0.0005484319831028559
+"['[""mcdonalds""]']","['[""United States Postal Service (USPS)""]']",0.0385718839655722,0.0005484319831028559
+"['[""7-Eleven US""]']","['[""United States Postal Service (USPS)""]']",0.10687830687830688,0.0004577820685404004
+"['[""United States Postal Service (USPS)""]']","['[""7-Eleven US""]']",0.008958665957069364,0.0004577820685404004

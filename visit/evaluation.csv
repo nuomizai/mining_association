@@ -1,0 +1,32 @@
+Lift evaluation
+key1,key2,lift
+"['[""Dunkin\' Donuts""]']-->['[""United States Postal Service (USPS)""]']",0.7195093899481506
+"['[""United States Postal Service (USPS)""]']-->['[""Dunkin\' Donuts""]']",0.7195093899481506
+"['[""Dunkin\' Donuts""]']-->['[""National Association for the Education of Young Children (NAEYC)""]']",1.4736192987448962
+"['[""National Association for the Education of Young Children (NAEYC)""]']-->['[""Dunkin\' Donuts""]']",1.4736192987448962
+"['[""Cricket Wireless""]']-->['[""Dunkin\' Donuts""]']",1.5660325754543876
+"['[""Dunkin\' Donuts""]']-->['[""Cricket Wireless""]']",1.5660325754543876
+"['[""United States Postal Service (USPS)""]']-->['[""starbucks""]']",0.842874844964715
+"['[""starbucks""]']-->['[""United States Postal Service (USPS)""]']",0.842874844964715
+"['[""United States Postal Service (USPS)""]']-->['[""Wawa""]']",0.816330458699081
+"['[""Wawa""]']-->['[""United States Postal Service (USPS)""]']",0.816330458699081
+"['[""United States Postal Service (USPS)""]']-->['[""mcdonalds""]']",0.7548408894305685
+"['[""mcdonalds""]']-->['[""United States Postal Service (USPS)""]']",0.7548408894305685
+"['[""7-Eleven US""]']-->['[""United States Postal Service (USPS)""]']",2.0915783189865147
+"['[""United States Postal Service (USPS)""]']-->['[""7-Eleven US""]']",2.0915783189865147
+Cosine evaluation
+key1,key2,cosine
+"['[""Dunkin\' Donuts""]']-->['[""United States Postal Service (USPS)""]']",0.031641431439479076
+"['[""United States Postal Service (USPS)""]']-->['[""Dunkin\' Donuts""]']",0.031641431439479076
+"['[""Dunkin\' Donuts""]']-->['[""National Association for the Education of Young Children (NAEYC)""]']",0.02771470575868812
+"['[""National Association for the Education of Young Children (NAEYC)""]']-->['[""Dunkin\' Donuts""]']",0.02771470575868812
+"['[""Cricket Wireless""]']-->['[""Dunkin\' Donuts""]']",0.02583051257882281
+"['[""Dunkin\' Donuts""]']-->['[""Cricket Wireless""]']",0.02583051257882281
+"['[""United States Postal Service (USPS)""]']-->['[""starbucks""]']",0.027779596471101467
+"['[""starbucks""]']-->['[""United States Postal Service (USPS)""]']",0.027779596471101467
+"['[""United States Postal Service (USPS)""]']-->['[""Wawa""]']",0.023321708868951765
+"['[""Wawa""]']-->['[""United States Postal Service (USPS)""]']",0.023321708868951765
+"['[""United States Postal Service (USPS)""]']-->['[""mcdonalds""]']",0.020346471092489975
+"['[""mcdonalds""]']-->['[""United States Postal Service (USPS)""]']",0.020346471092489975
+"['[""7-Eleven US""]']-->['[""United States Postal Service (USPS)""]']",0.030943287630436106
+"['[""United States Postal Service (USPS)""]']-->['[""7-Eleven US""]']",0.030943287630436106

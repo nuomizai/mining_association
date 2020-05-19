@@ -1,0 +1,67 @@
+pattern,frequency
+"['[""Dunkin\' Donuts""]']",0.03784633932982518
+"['[""starbucks""]']",0.02125740496489582
+"['[""Wawa""]']",0.015972514945904664
+"['[""walmart""]']",0.015791215116779753
+"['[""mcdonalds""]']",0.01421843909912115
+"['[""7-Eleven US""]']",0.011947658739331637
+"['[""Publix Super Markets""]']",0.011095549542444556
+"['[""QuikTrip""]']",0.009237226293914219
+"['[""Kroger""]']",0.006372688993740623
+"['[""Chick-fil-A""]']",0.005837854497822136
+"['[""Chevron""]']",0.0054661898481160685
+"['[""Sheetz""]']",0.005330214976272385
+"['[""Safeway""]']",0.005253162548894298
+"['[""Meijer""]']",0.005103590189866246
+"['[""H-E-B""]']",0.004673003095694583
+"['[""Kwik Trip""]']",0.0042650784801635325
+"['[""Costco Wholesale Corp.""]']",0.004251480992979164
+"['[""ARCO""]']",0.004052051180941762
+"['[""Circle K Stores""]']",0.0036939840184200628
+"['[""King Soopers""]']",0.0035172166850232743
+"['[""Speedway""]']",0.003227136958423417
+"['[""Dunkin\' Donuts"",""Stop & Shop""]']",0.0030095771634735236
+"['[""Shell Oil""]']",0.003000512172017278
+"['[""Giant Eagle""]']",0.002995979676289155
+"['[""Circle K Stores"",""QuikTrip""]']",0.0029551872147360503
+"['[""Wawa"",""Dunkin\' Donuts""]']",0.0028736022916298403
+"['[""Family Dollar Stores""]']",0.0026696399838643152
+"['[""Target""]']",0.002433950206001931
+"['[""mcdonalds"",""Speedway""]']",0.0022979753341582474
+"['[""Tim Hortons""]']",0.0022209229067801602
+"['[""Holiday Station""]']",0.0021212080007614593
+"['[""ShopRite""]']",0.0020441555733833722
+"['[""United States Postal Service (USPS)""]']",0.05109935683885618
+"['[""Aflac (American Family Life Assurance)""]']",0.01088705473895091
+"['[""National Association for the Education of Young Children (NAEYC)""]']",0.009346006191389165
+"['[""Dollar General""]']",0.007814022635283666
+"['[""The American Legion""]']",0.00759193034460565
+"['[""Cricket Wireless""]']",0.007188538224802723
+"['[""Boys & Girls Clubs of America""]']",0.0051489151471474735
+"['[""Shell Oil""]']",0.005031070258216282
+"['[""VFW (Veterans of Foreign Wars)""]']",0.004949485335110072
+"['[""United States Postal Service (USPS)"",""The American Legion""]']",0.004369325881910357
+"['[""7-Eleven US""]']",0.004283208463076024
+"['[""Family Dollar Stores""]']",0.0037982314201668865
+"['[""CITGO Petroleum""]']",0.00377103644579815
+"['[""Marathon Petroleum""]']",0.0032316694541515397
+"['[""Sunoco""]']",0.0030231746506578917
+"['[""Chevron""]']",0.002932524736095436
+"['[""SUBWAY""]']",0.0028010823599798756
+"['[""BP""]']",0.0026016525479424734
+"['[""Auto Wares""]']",0.0025608600863893686
+"['[""Dollar General"",""United States Postal Service (USPS)""]']",0.0024883401547394044
+"['[""Mobil""]']",0.0024792751632831587
+"['[""Valero Energy""]']",0.0024158202230894397
+"['[""The American Legion"",""United States Postal Service (USPS)""]']",0.002225455402508283
+"['[""CrossFit""]']",0.0022209229067801602
+"['[""Exxon Mobil""]']",0.00217106545377081
+"['[""State Farm""]']",0.002130272992217705
+"['[""CVS""]']",0.0020940130263927227
+"['[""Dunkin\' Donuts""]', '[""United States Postal Service (USPS)""]']",0.0013914761885336923
+"['[""Dunkin\' Donuts""]', '[""National Association for the Education of Young Children (NAEYC)""]']",0.0005212370087341192
+"['[""Cricket Wireless""]', '[""Dunkin\' Donuts""]']",0.00042605459844354096
+"['[""United States Postal Service (USPS)""]', '[""starbucks""]']",0.0009155641370808008
+"['[""United States Postal Service (USPS)""]', '[""Wawa""]']",0.0006662768720340481
+"['[""United States Postal Service (USPS)""]', '[""mcdonalds""]']",0.0005484319831028559
+"['[""7-Eleven US""]', '[""United States Postal Service (USPS)""]']",0.0004577820685404004

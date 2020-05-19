@@ -1,0 +1,92 @@
+Lift evaluation
+key1,key2,lift
+['California']-->['US'],2.3832795466241254
+['US']-->['California'],2.3832795466241254
+['US']-->['Washington'],2.3855395082744595
+['Washington']-->['US'],2.3855395082744595
+['US']-->['Virginie Boone'],2.3793562792348357
+['Virginie Boone']-->['US'],2.3793562792348353
+['Matt Kettmann']-->['US'],2.380337527826626
+['US']-->['Matt Kettmann'],2.380337527826626
+['Paul Gregutt']-->['US'],2.3179419826238457
+['US']-->['Paul Gregutt'],2.3179419826238457
+['Jim Gordon']-->['US'],2.376889747465484
+['US']-->['Jim Gordon'],2.376889747465484
+['Pinot Noir']-->['US'],1.7812406074121383
+['US']-->['Pinot Noir'],1.7812406074121383
+['Chardonnay']-->['US'],1.3805173553925265
+['US']-->['Chardonnay'],1.3805173553925267
+['Cabernet Sauvignon']-->['US'],1.8415587233562447
+['US']-->['Cabernet Sauvignon'],1.841558723356245
+['France']-->['Roger Voss'],4.278701410124297
+['Roger Voss']-->['France'],4.278701410124298
+['Italy']-->['Kerin O¡¯Keefe'],6.646360764874611
+['Kerin O¡¯Keefe']-->['Italy'],6.646360764874611
+['Michael Schachner']-->['Spain'],8.43700389272665
+['Spain']-->['Michael Schachner'],8.43700389272665
+['California']-->['Virginie Boone'],3.5580527754265074
+['Virginie Boone']-->['California'],3.558052775426507
+['California']-->['Matt Kettmann'],3.560615795850549
+['Matt Kettmann']-->['California'],3.5606157958505484
+['California']-->['Jim Gordon'],3.548149419536788
+['Jim Gordon']-->['California'],3.548149419536788
+['California']-->['Pinot Noir'],1.8699115830814688
+['Pinot Noir']-->['California'],1.8699115830814688
+"['California']-->['US', 'Virginie Boone']",3.5644109138133087
+"['US']-->['California', 'Virginie Boone']",2.3836081207475197
+"['Virginie Boone']-->['California', 'US']",3.558543311282165
+"['California']-->['Matt Kettmann', 'US']",3.5651798706597906
+"['Matt Kettmann']-->['California', 'US']",3.560778865242358
+"['US']-->['California', 'Matt Kettmann']",2.383388696268025
+"['California']-->['Jim Gordon', 'US']",3.55711228393439
+"['Jim Gordon']-->['California', 'US']",3.5475753275537283
+"['US']-->['California', 'Jim Gordon']",2.382893931048419
+"['California']-->['Pinot Noir', 'US']",2.493594369507064
+"['Pinot Noir']-->['California', 'US']",1.8636888633865174
+"['US']-->['California', 'Pinot Noir']",2.375348433352495
+Cosine evaluation
+key1,key2,cosine
+['California']-->['US'],0.8154927021297131
+['US']-->['California'],0.8154927021297131
+['US']-->['Washington'],0.39836180559364237
+['Washington']-->['US'],0.39836180559364237
+['US']-->['Virginie Boone'],0.5814397018827195
+['Virginie Boone']-->['US'],0.5814397018827195
+['Matt Kettmann']-->['US'],0.4471442977724232
+['US']-->['Matt Kettmann'],0.4471442977724232
+['Paul Gregutt']-->['US'],0.41304107162753007
+['US']-->['Paul Gregutt'],0.41304107162753007
+['Jim Gordon']-->['US'],0.35061504069233074
+['US']-->['Jim Gordon'],0.35061504069233074
+['Pinot Noir']-->['US'],0.36868045552696266
+['US']-->['Pinot Noir'],0.36868045552696266
+['Chardonnay']-->['US'],0.2688905754028465
+['US']-->['Chardonnay'],0.2688905754028465
+['Cabernet Sauvignon']-->['US'],0.3220073304280944
+['US']-->['Cabernet Sauvignon'],0.3220073304280944
+['France']-->['Roger Voss'],0.7863906833320243
+['Roger Voss']-->['France'],0.7863906833320243
+['Italy']-->['Kerin O¡¯Keefe'],0.9825580510133604
+['Kerin O¡¯Keefe']-->['Italy'],0.9825580510133604
+['Michael Schachner']-->['Spain'],0.6575679105063722
+['Spain']-->['Michael Schachner'],0.6575679105063722
+['California']-->['Virginie Boone'],0.7091490749455094
+['Virginie Boone']-->['California'],0.7091490749455094
+['California']-->['Matt Kettmann'],0.545524445627445
+['Matt Kettmann']-->['California'],0.545524445627445
+['California']-->['Jim Gordon'],0.42687758905815343
+['Jim Gordon']-->['California'],0.42687758905815343
+['California']-->['Pinot Noir'],0.3156665394901923
+['Pinot Noir']-->['California'],0.3156665394901923
+"['California']-->['US', 'Virginie Boone']",0.7097824066768117
+"['US']-->['California', 'Virginie Boone']",0.5804285631544677
+"['Virginie Boone']-->['California', 'US']",0.7091979571686515
+"['California']-->['Matt Kettmann', 'US']",0.5458488402538566
+"['Matt Kettmann']-->['California', 'US']",0.5455118270290327
+"['US']-->['California', 'Matt Kettmann']",0.4463022811858731
+"['California']-->['Jim Gordon', 'US']",0.4273523725501689
+"['Jim Gordon']-->['California', 'US']",0.42677910186398516
+"['US']-->['California', 'Jim Gordon']",0.3497757430007829
+"['California']-->['Pinot Noir', 'US']",0.36389589090944213
+"['Pinot Noir']-->['California', 'US']",0.3145943744189407
+"['US']-->['California', 'Pinot Noir']",0.3551631583046393
